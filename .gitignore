@@ -1,0 +1,17 @@
+# Secrets
+telegram.env
+
+# Runtime / state
+*.log
+*.pid
+pump-scanner-out.log
+pump-signal-history.json
+pump-paper.json
+pump-paper.json.broken.*
+pump-review-state.json
+
+# OS
+.DS_Store
+
+# Local data
+rank50-300*.csv
