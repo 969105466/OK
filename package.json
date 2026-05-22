@@ -1,0 +1,29 @@
+{
+  "name": "bn-paper-market",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Binance USDT-M read-only market scan + paper strategy + Telegram push",
+  "type": "module",
+  "scripts": {
+    "telegram:chat-id": "tsx src/cli/telegram-chat-id.ts",
+    "push:test": "tsx src/cli/push-test.ts",
+    "market:push": "tsx src/cli/market-push.ts",
+    "market:watch": "tsx src/cli/market-watch.ts",
+    "paper:status": "tsx src/cli/paper-status.ts",
+    "paper:reset": "tsx src/cli/paper-reset.ts",
+    "paper:summary": "tsx src/cli/paper-summary-push.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}

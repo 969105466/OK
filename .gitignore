@@ -1,0 +1,18 @@
+# Secrets — never commit
+binance.env
+.env
+.binance/
+
+# Node
+node_modules/
+dist/
+
+# Runtime / logs / cache
+*.log
+*.pid
+logs/
+data/
+.market-watch.pid
+
+# Scan outputs
+*-latest.json
