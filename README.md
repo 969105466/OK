@@ -1,6 +1,8 @@
-# BN — Binance USDT-M 合约
+# BN — Binance USDT-M 短期策略（模拟盘）
 
-PowerShell 扫描脚本 + **Node/TypeScript 只读盘面推送**（模拟策略，不真实下单）。
+Git 分支：`short-term-strategy-bn` @ [969105466/OK](https://github.com/969105466/OK)
+
+PowerShell 扫描脚本 + **Node/TypeScript 只读行情 + Telegram 交易结果推送**（模拟盘，不真实下单）。
 
 ## 环境
 
