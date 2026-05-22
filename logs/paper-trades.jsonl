@@ -1,0 +1,12 @@
+{"time":"2026-05-22T06:55:51.661Z","action":"open","symbol":"SWARMSUSDT","side":"long","strategy":"C","entry":0.010926,"stopLoss":null,"takeProfit1":null,"margin":100}
+{"time":"2026-05-22T06:55:51.662Z","action":"open","symbol":"SKYAIUSDT","side":"long","strategy":"C","entry":0.25286,"stopLoss":null,"takeProfit1":null,"margin":100}
+{"time":"2026-05-22T06:55:51.662Z","action":"open","symbol":"BUSDT","side":"long","strategy":"C","entry":0.2804,"stopLoss":null,"takeProfit1":null,"margin":100}
+{"time":"2026-05-22T06:56:47.570Z","action":"close","symbol":"SWARMSUSDT","reason":"tp1","pnl":0,"exitPrice":0.010926}
+{"time":"2026-05-22T06:56:47.570Z","action":"close","symbol":"SKYAIUSDT","reason":"tp1","pnl":-0.46270663608314405,"exitPrice":0.25247}
+{"time":"2026-05-22T06:56:47.571Z","action":"close","symbol":"BUSDT","reason":"tp1","pnl":-1.3908701854493237,"exitPrice":0.2791}
+{"time":"2026-05-22T06:56:47.572Z","action":"open","symbol":"SWARMSUSDT","side":"long","strategy":"C","entry":0.010926,"stopLoss":null,"takeProfit1":null,"margin":100}
+{"time":"2026-05-22T06:56:47.572Z","action":"open","symbol":"SKYAIUSDT","side":"long","strategy":"C","entry":0.25247,"stopLoss":null,"takeProfit1":null,"margin":100}
+{"time":"2026-05-22T06:56:47.572Z","action":"open","symbol":"BUSDT","side":"long","strategy":"C","entry":0.2791,"stopLoss":null,"takeProfit1":null,"margin":100}
+{"time":"2026-05-22T06:57:56.964Z","action":"open","symbol":"SWARMSUSDT","side":"long","strategy":"C","entry":0.010923,"stopLoss":0.01048608,"takeProfit1":0.011796840000000001,"margin":100}
+{"time":"2026-05-22T06:57:56.965Z","action":"open","symbol":"SKYAIUSDT","side":"long","strategy":"C","entry":0.2511,"stopLoss":0.241056,"takeProfit1":0.271188,"margin":100}
+{"time":"2026-05-22T06:57:56.965Z","action":"open","symbol":"BUSDT","side":"long","strategy":"C","entry":0.2787,"stopLoss":0.267552,"takeProfit1":0.30099600000000004,"margin":100}

@@ -1,0 +1,24 @@
+﻿{
+    "scannedAt":  "2026-05-22T13:50:52.4195492+08:00",
+    "hits":  [
+                 {
+                     "Symbol":  "BOB",
+                     "AlphaId":  "ALPHA_473",
+                     "TradeSymbol":  "ALPHA_473USDT",
+                     "Chg24snap":  92.7,
+                     "Vol24snap":  4496880,
+                     "Market":  "Alpha",
+                     "Phase":  "IGNITION",
+                     "Score":  30,
+                     "D1":  57.2,
+                     "D3":  96.3,
+                     "VolMult":  11.3,
+                     "Pos10":  73,
+                     "Pos24":  72.1,
+                     "RunDays":  2,
+                     "Last":  0.01163596,
+                     "VolDay":  238146,
+                     "Tags":  "today-rocket,vol-explode,3d-momo,run2d,volx"
+                 }
+             ]
+}
