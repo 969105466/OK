@@ -1,0 +1,8 @@
+﻿node.exe : [gmgn-cli] GET /v1/market/rank fetch failed: ConnectTimeoutError: Connect Timeout Error (attempted address: 
+openapi.gmgn.ai:443, timeout: 10000ms)
+所在位置 行:1 字符: 1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([gmgn-cli] GET ...meout: 10000ms):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

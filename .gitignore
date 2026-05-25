@@ -1,0 +1,6 @@
+# Secrets
+.env
+*.env
+
+# Runtime / cache (regenerate via scripts)
+scan-report.csv
